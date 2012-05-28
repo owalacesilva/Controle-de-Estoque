@@ -1,7 +1,7 @@
 Controle-de-Estoque
 ===================
 
-Foque deste repositÃ³rio Ã© mostrar como construir um sistema de controle de estoque baseando-se em regras de negÃ³cio e em um framework de aplicaÃ§Ã£o
+Foque deste repositóo é mostrar como construir um sistema de controle de estoque baseando-se em regras de negócio e em um framework de aplicação
 
 Utilizo framework fw.PHP um pouco desconhecido. Utilo apenas para mostrar conceitos de MVC.
 

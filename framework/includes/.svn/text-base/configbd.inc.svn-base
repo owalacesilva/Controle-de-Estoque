@@ -16,7 +16,7 @@ $_servidor = "localhost";
 /**
  * @var integer Porta de conexão
  */
-$_porta = 5433;
+$_porta = 5432;
 /**
  * @var string define o nome do banco de dados que desejamos conectar
  */
@@ -28,7 +28,7 @@ $_usuario = "postgres";
 /**
  * @var string Senha do usuário
  */
-$_senha = "123456";
+$_senha = "postgres";
 
 /**
  * Conecta com o Banco de dados e retorna uma instancia de bancodados

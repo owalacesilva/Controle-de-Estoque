@@ -1,0 +1,50 @@
+10
+
+dir
+3
+https://sistemaweb.googlecode.com/svn/trunk/controleestoque/framework
+https://sistemaweb.googlecode.com/svn
+
+
+
+2012-05-28T08:15:43.156717Z
+3
+turmawb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d5b91f33-cf28-a6bc-2a22-bec339fa4a2e
+
+
+
+
+
+
+0
+
+classes
+dir
+
+css
+dir
+
+imagens
+dir
+
+includes
+dir
+
+javascript
+dir
+

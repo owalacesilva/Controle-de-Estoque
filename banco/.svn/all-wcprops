@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/controleestoque/banco
+END
+bd_siteweb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/controleestoque/banco/bd_siteweb.sql
+END
+bd_siteweb_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/controleestoque/banco/bd_siteweb_mysql.sql
+END
+banco_dados.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/controleestoque/banco/banco_dados.sql
+END

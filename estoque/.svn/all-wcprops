@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/controleestoque/estoque
+END
+rel_estoqueatual.php5
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/controleestoque/estoque/rel_estoqueatual.php5
+END
+inv_cadastroinventario.php5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/controleestoque/estoque/inv_cadastroinventario.php5
+END
+mov_entradas.php5
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/controleestoque/estoque/mov_entradas.php5
+END
+inv_analiseinventario.php5
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/controleestoque/estoque/inv_analiseinventario.php5
+END
+mov_saidas.php5
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/controleestoque/estoque/mov_saidas.php5
+END
+rel_razaoestoque.php5
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/controleestoque/estoque/rel_razaoestoque.php5
+END
+man_produto.php5
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/controleestoque/estoque/man_produto.php5
+END
+rel_estoqueatuallocal.php5
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/controleestoque/estoque/rel_estoqueatuallocal.php5
+END
+inv_contagem.php5
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/controleestoque/estoque/inv_contagem.php5
+END
+rel_curvaabc.php5
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/controleestoque/estoque/rel_curvaabc.php5
+END
+inv_congelarinventario.php5
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/controleestoque/estoque/inv_congelarinventario.php5
+END
+inv_fichainventario.php5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/controleestoque/estoque/inv_fichainventario.php5
+END
